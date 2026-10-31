@@ -1,0 +1,32 @@
+paper_code,commodity,sector,contrcode,priority,status,note
+LBR,Barley,agriculture,3160,1,candidate,Western barley CAD; historical market identity needs verification
+CC,Cocoa,agriculture,1980,1,verified,USD US cocoa
+KC,Coffee,agriculture,2038,1,verified,USD coffee C
+C,Corn,agriculture,3247,1,verified,Composite corn
+CT,Cotton,agriculture,1992,1,verified,USD cotton 2
+LB,Lumber,agriculture,361,1,verified,Random length lumber only; do not splice 2022 respecification
+O,Oats,agriculture,3262,1,verified,Composite oats
+OJ,Orange juice,agriculture,2036,1,verified,FCOJ-A
+RR,Rough rice,agriculture,3268,1,verified,Composite primary
+RR,Rough rice,agriculture,379,2,verified,Older pit series fallback at month level
+S,Soybeans,agriculture,3376,1,verified,Composite soybeans
+SM,Soybean meal,agriculture,3256,1,verified,Composite meal
+BO,Soybean oil,agriculture,456,1,verified,Electronic primary from 1996
+BO,Soybean oil,agriculture,282,2,verified,Older pit series fallback at month level
+SB,Sugar,agriculture,2104,1,verified,USD sugar 11
+W,Wheat,agriculture,3272,1,verified,SRW composite wheat
+CL,Crude oil,energy,1986,1,verified,WTI
+HO,Heating oil,energy,2029,1,verified,ULSD specification change retained and disclosed
+NG,Natural gas,energy,2060,1,verified,Henry Hub
+PN,Propane,energy,,,unavailable,Original physical propane not found; OPIS swaps are not substitutes
+RB,RBOB gasoline,energy,2091,1,verified,RBOB kept separate from HU
+HU,Unleaded gasoline,energy,2032,1,verified,Discontinued HU
+FC,Feeder cattle,livestock,3250,1,verified,Cash settled; use vendor last trade date if FND absent
+LH,Lean hogs,livestock,2676,1,verified,Cash settled; use vendor last trade date if FND absent
+LC,Live cattle,livestock,2675,1,verified,Composite live cattle
+PB,Pork belly,livestock,388,1,verified,Discontinued; missing FND remains unresolved
+HG,Copper,metals,2026,1,verified,USD high grade copper
+GC,Gold,metals,2020,1,verified,100 oz
+PA,Palladium,metals,2065,1,verified,USD palladium
+PL,Platinum,metals,2074,1,verified,USD platinum
+SI,Silver,metals,2108,1,verified,5000 oz

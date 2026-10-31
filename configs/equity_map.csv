@@ -1,0 +1,20 @@
+country,region,dsindexcode,dsindexmnem,definition_note
+Argentina,AR,189,ARGMERV,MSCI Merval local index
+Australia,AU,356,AUSTOLD,ASX All Ordinaries
+Brazil,BR,888,BRBOVES,Bovespa local index
+Canada,CA,48552,TTOCOMP,S&P TSX Composite
+China,CN,963,CHSCOMP,Shanghai Composite; mainland only
+France,FR,35252,FRCAC40,CAC40
+Germany,DE,13095,DAXINDX,DAX performance includes dividends; not a pure price index
+India,IN,37788,IBOMSEN,BSE Sensex
+Indonesia,ID,38487,JAKCOMP,IDX Composite
+Italy,IT,77161,FTSEMIB,FTSE MIB
+Japan,JP,48158,TOKYOSE,TOPIX
+South Korea,KR,39639,KORCOMP,KOSPI
+Mexico,MX,40787,MXIPC35,IPC Bolsa
+Russia,RU,89838,RSMICEX,MOEX suspended series; inspect coverage
+Saudi Arabia,SA,76477,TDWTASI,Tadawul All Share
+South Africa,ZA,39591,JSEOVER,FTSE JSE All Share
+Turkey,TR,48159,TRKISTB,BIST100
+United Kingdom,GB,36888,FTSE100,FTSE100
+United States,US,41620,S&PCOMP,S&P500

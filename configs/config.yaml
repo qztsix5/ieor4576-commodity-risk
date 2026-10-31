@@ -1,13 +1,17 @@
-# Proposed settings; data availability and appendix details still require verification.
+# Data coverage and research assumptions are documented in report/data_methodology.md.
 project:
   phase: replication
   seed: 4576
 sample:
+  download_start: "1969-01-01"
   paper_start: "1970-01-01"
   paper_end: "2011-09-30"
   proposed_wrds_start: "2000-01-01"
   proposed_wrds_end: "2025-12-31"
-  active_sample: paper
+  active_sample: proposal
+data_preparation:
+  max_quote_age_days: 7
+  primary_notice_policy: appendix_conventions
 universe:
   agriculture: [Barley, Cocoa, Coffee, Corn, Cotton, Lumber, Oats, Orange juice, Rough rice, Soybeans, Soybean meal, Soybean oil, Sugar, Wheat]
   energy: [Crude oil, Heating oil, Natural gas, Propane, RBOB gasoline, Unleaded gasoline]

@@ -18,3 +18,5 @@ dist/
 /*.pdf
 /initial proposal/
 /Project_Ideas.txt
+# Author data is a local benchmark, not redistributable source code
+/FuturesReturn_to_post.xls
