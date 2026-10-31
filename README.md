@@ -1,7 +1,6 @@
 # IEOR 4576 — Commodity Risk Replication
 
 Bakshi, Gao and Rossi (2019), Understanding the Sources of Risk Underlying the Cross Section of Commodity Returns.
-Team: PNL MAKERS — XinYu Wu, Anvesha Churi, Zhitao Qu.
 
 ## 当前版本
 
