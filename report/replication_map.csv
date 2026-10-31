@@ -1,0 +1,6 @@
+paper_result,output,status
+Tables 1-2,results/replication/tables/descriptive.csv,pending
+Table 3,results/replication/tables/cross_section.csv,pending
+Tables 6-7,results/replication/tables/time_series.csv,pending
+Tables 8 and 10,results/replication/tables/economic_sources.csv,pending
+Table 12,results/replication/tables/business_cycle.csv,pending

@@ -1,0 +1,20 @@
+# Local data and generated artifacts
+data/
+results/
+tmp/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+# Local reference documents (not part of code submission)
+/*.pdf
+/initial proposal/
+/Project_Ideas.txt
